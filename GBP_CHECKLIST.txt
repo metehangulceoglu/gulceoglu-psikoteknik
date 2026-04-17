@@ -1,0 +1,43 @@
+GOOGLE BUSINESS PROFILE KONTROL LİSTESİ
+Gülceoğlu Psikoteknik Değerlendirme Merkezi
+========================================
+
+1. İşletme adını tam olarak şu şekilde gir: "Gülceoğlu Psikoteknik Değerlendirme Merkezi"
+   - Kısaltma veya farklı yazım kullanma; sitedeki ile birebir aynı olsun.
+
+2. Birincil kategori: "Psikolog" — İkincil kategori: "Psikoloji Kliniği"
+   - Birincil kategori en kritik arama sinyalidir; yanlış seçme.
+
+3. Adres: Kamil Tunca Caddesi No:200/B, Bornova/İzmir
+   - Sitedeki NAP (Ad, Adres, Telefon) ile birebir aynı formatta olsun.
+   - Mahalle veya ek bilgi alanları sitedeki ifadeyle tutarlı olsun.
+
+4. Telefon numarasını sitedeki ile aynı formatta gir: 0(232) XXX XX XX
+   - GBP, web sitesi ve tüm yerel dizinlerde format tutarlı olmalı.
+
+5. Çalışma saatlerini ekle
+   - Gerçek çalışma saatlerini gir; resmi tatilleri ve özel günleri güncellemeyi unutma.
+
+6. En az 5 fotoğraf yükle:
+   a. Dış cephe (sokaktan görünüm)
+   b. Resepsiyon / bekleme alanı
+   c. Test / değerlendirme odası
+   d. Belge, sertifika veya diploma
+   e. Psikolog vesikalık fotoğrafı (Psk. Metehan Gülceoğlu)
+
+7. Web sitesi alanına şunu gir: gulceoglupsikoteknik.com
+   - UTM parametresi ekleme; temiz URL kullan.
+
+8. Hizmetler bölümüne şunları ekle:
+   a. Psikoteknik Değerlendirme
+   b. SRC Psikoteknik
+   c. Ehliyet Psikoteknik
+
+9. Yorum yanıt şablonu (gelen her yoruma kısa sürede yanıt ver):
+   "Değerlendirmeniz için teşekkür ederiz. Merkezimizde sunduğumuz hizmetlerin yararlı
+   olduğunu öğrenmek bizi memnun etti."
+
+10. Q&A (Soru & Cevap) bölümüne şu soruyu kendin ekleyip yanıtla:
+    Soru : "Randevu gerekli mi?"
+    Cevap: "Evet, değerlendirme öncesinde randevu almanızı öneririz. Telefon veya web
+    sitemiz üzerinden kolayca randevu oluşturabilirsiniz."

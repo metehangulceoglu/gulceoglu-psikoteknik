@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --app --src-dir --import-alias \"@/*\" --eslint --yes)",
+      "Bash(npx create-next-app@latest temp-setup --typescript --tailwind --app --src-dir --import-alias \"@/*\" --eslint --yes)",
+      "Bash(mv temp-setup/.* .)",
+      "Bash(mv temp-setup/* .)",
+      "Bash(rm -rf temp-setup)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3001)",
+      "Bash(node -e \"const s=require\\('./node_modules/sanity/package.json'\\); const ns=require\\('./node_modules/next-sanity/package.json'\\); console.log\\('sanity:', s.version, 'next-sanity:', ns.version\\)\")",
+      "Bash(npx tsc *)",
+      "Bash(node -e \"const s=require\\('@sanity/image-url'\\); console.log\\(Object.keys\\(s\\)\\)\")",
+      "Bash(node -e \"const p = require\\('@sanity/image-url/package.json'\\); console.log\\(p.exports || p.main || p.types\\)\")",
+      "Bash(npx kill-port *)",
+      "Bash(vercel --prod --yes)",
+      "Bash(npm uninstall *)",
+      "Bash(vercel ls *)",
+      "Bash(netlify --version)",
+      "Bash(npx netlify-cli *)",
+      "Bash(npm cache *)",
+      "Bash(netlify deploy *)",
+      "Bash(netlify login *)",
+      "Bash(taskkill /PID 5724 /F)",
+      "Bash(netlify status *)",
+      "Bash(netlify logout *)",
+      "Bash(netlify link *)",
+      "Bash(NETLIFY_AUTH_TOKEN=\"nfc_DpYppFTtM1HTdEs671tSHd5VdnZHMZin81ee\" netlify deploy --prod --dir=out)",
+      "Bash(netlify sites:list)",
+      "Bash(NETLIFY_SITE_ID=\"aac4f3a5-6aa9-4b93-8196-32623a3df7ca\" netlify deploy --prod --dir=out --auth \"nfc_DpYppFTtM1HTdEs671tSHd5VdnZHMZin81ee\")"
+    ]
+  }
+}

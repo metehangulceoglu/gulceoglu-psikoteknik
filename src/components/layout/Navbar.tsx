@@ -43,6 +43,15 @@ export default function Navbar() {
             </li>
             <li>
               <Link
+                href="/blog"
+                className="text-sm transition-colors hover:text-[var(--color-primary)]"
+                style={{ color: "var(--color-text-muted)" }}
+              >
+                Blog
+              </Link>
+            </li>
+            <li>
+              <Link
                 href="/#iletisim"
                 className="text-sm transition-colors hover:text-[var(--color-primary)]"
                 style={{ color: "var(--color-text-muted)" }}
